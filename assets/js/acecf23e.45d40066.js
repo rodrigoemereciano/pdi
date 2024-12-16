@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_pdi=self.webpackChunkmy_pdi||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/pdi/blog","blogTitle":"Blog","authorsListPath":"/pdi/blog/authors"}')}}]);
